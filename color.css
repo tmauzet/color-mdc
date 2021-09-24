@@ -1,0 +1,29 @@
+/**
+ * CSS créé par Timothé Mauzet
+ * Basé sur https://materialui.co/colors
+ *
+ * Définition : <lettre><intensité>
+ *
+ * Définition lettre couleur :
+ * - r = RED / - p = PINK / - pu = PURPLE / - dp = DEEP PURPLE / - i = INDIGO / - b = BLUE / - lb = LIGHT BLUE / - c = CYAN / - t = TEAL / - g = GREEN / - lg = LIGHT GREEN / - l = LIME / - y = YELLOW / - a = AMBER / - o = ORANGE / - do = DEEP ORANGE / - b = BROWN / - g = GREY / - bg = BLUE GREY
+ */
+
+.r50 { color: #FFEBEE; }
+.p50 { color: #FCE4EC; }
+.pu50 { color: #F3E5F5; }
+.dp50 { color: #EDE7F6; }
+.i50 { color: #E8EAF6; }
+.b50 { color: #E3F2FD; }
+.lb50 { color: #E1F5FE; }
+.c50 { color: #E0F7FA; }
+.t50 { color: #E0F2F1; }
+.g50 { color: #E8F5E9; }
+.lg50 { color: #F1F8E9; }
+.l50 { color: #F9FBE7; }
+.y50 { color: #FFFDE7; }
+.a50 { color: #FFF8E1; }
+.o50 { color: #FFF3E0; }
+.dp50 { color: #FBE9E7; }
+.b50 { color: #EFEBE9; }
+.g50 { color: #FAFAFA; }
+.bg50 { color: #ECEFF1; }
