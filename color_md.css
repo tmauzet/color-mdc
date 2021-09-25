@@ -5,7 +5,7 @@
  * Définition : <lettre><intensité>
  *
  * Définition lettre couleur :
- * - r = RED / - p = PINK / - pu = PURPLE / - dp = DEEP PURPLE / - i = INDIGO / - b = BLUE / - lb = LIGHT BLUE / - c = CYAN / - t = TEAL / - gr = GREEN / - lg = LIGHT GREEN / - l = LIME / - y = YELLOW / - a = AMBER / - o = ORANGE / - do = DEEP ORANGE / - b = BROWN / - g = GREY / - bg = BLUE GREY
+ * - r = RED / - p = PINK / - pu = PURPLE / - dp = DEEP PURPLE / - i = INDIGO / - b = BLUE / - lb = LIGHT BLUE / - c = CYAN / - t = TEAL / - gr = GREEN / - lg = LIGHT GREEN / - l = LIME / - y = YELLOW / - a = AMBER / - o = ORANGE / - do = DEEP ORANGE / - br = BROWN / - g = GREY / - bg = BLUE GREY
  */
 
 /* <intensity> : 50 */
@@ -25,7 +25,7 @@
 .a50 { color: #FFF8E1; }
 .o50 { color: #FFF3E0; }
 .dp50 { color: #FBE9E7; }
-.b50 { color: #EFEBE9; }
+.br50 { color: #EFEBE9; }
 .g50 { color: #FAFAFA; }
 .bg50 { color: #ECEFF1; }
 
@@ -46,7 +46,7 @@
 .a100 { color: #FFECB3; }
 .o100 { color: #FFE0B2; }
 .dp100 { color: #FFCCBC; }
-.b100 { color: #D7CCC8; }
+.br100 { color: #D7CCC8; }
 .g100 { color: #F5F5F5; }
 .bg100 { color: #CFD8DC; }
 
@@ -67,7 +67,7 @@
 .a200 { color: #FFE082; }
 .o200 { color: #FFCC80; }
 .dp200 { color: #FFAB91; }
-.b200 { color: #BCAAA4; }
+.br200 { color: #BCAAA4; }
 .g200 { color: #EEEEEE; }
 .bg200 { color: #B0BEC5; }
 
@@ -88,7 +88,7 @@
 .a300 { color: #FFD54F; }
 .o300 { color: #FFB74D; }
 .dp300 { color: #FF8A65; }
-.b300 { color: #A1887F; }
+.br300 { color: #A1887F; }
 .g300 { color: #E0E0E0; }
 .bg300 { color: #90A4AE; }
 
@@ -109,7 +109,7 @@
 .a400 { color: #FFCA28; }
 .o400 { color: #FFA726; }
 .dp400 { color: #FF7043; }
-.b400 { color: #8D6E63; }
+.br400 { color: #8D6E63; }
 .g400 { color: #BDBDBD; }
 .bg400 { color: #78909C; }
 
@@ -130,7 +130,7 @@
 .a500 { color: #FFC107; }
 .o500 { color: #FF9800; }
 .dp500 { color: #FF5722; }
-.b500 { color: #795548; }
+.br500 { color: #795548; }
 .g500 { color: #9E9E9E; }
 .bg500 { color: #607D8B; }
 
@@ -151,7 +151,7 @@
 .a600 { color: #FFB300; }
 .o600 { color: #FB8C00; }
 .dp600 { color: #F4511E; }
-.b600 { color: #6D4C41; }
+.br600 { color: #6D4C41; }
 .g600 { color: #757575; }
 .bg600 { color: #546E7A; }
 
@@ -172,7 +172,7 @@
 .a700 { color: #FFA000; }
 .o700 { color: #F57C00; }
 .dp700 { color: #E64A19; }
-.b700 { color: #5D4037; }
+.br700 { color: #5D4037; }
 .g700 { color: #616161; }
 .bg700 { color: #455A64; }
 
@@ -193,7 +193,7 @@
 .a800 { color: #FF8F00; }
 .o800 { color: #EF6C00; }
 .dp800 { color: #D84315; }
-.b800 { color: #4E342E; }
+.br800 { color: #4E342E; }
 .g800 { color: #424242; }
 .bg800 { color: #37474F; }
 
@@ -214,7 +214,7 @@
 .a900 { color: #FF6F00; }
 .o900 { color: #E65100; }
 .dp900 { color: #BF360C; }
-.b900 { color: #3E2723; }
+.br900 { color: #3E2723; }
 .g900 { color: #212121; }
 .bg900 { color: #263238; }
 
